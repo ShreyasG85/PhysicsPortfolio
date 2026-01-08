@@ -15,7 +15,7 @@ I am a M.Sc Engineering Physics student specializing in **Simulation, Instrument
 
 ### 1. [Python](./Python)
 *Click the link above to view code.*
-A collection of **13 computational notebooks** covering computational quantum physics and numerical analysis.
+A collection of **14 computational notebooks** covering computational quantum physics and numerical analysis.
 * **Key Highlights:** 
 * **Stack:** NumPy, SciPy, Qiskit.
 
