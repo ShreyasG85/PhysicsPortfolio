@@ -1,5 +1,5 @@
 # Engineering Physics Portfolio
-### Quantum Technology & Materials Physics | Aalto University
+### Quantum Technology & Materials Physics
 
 ---
 
@@ -15,17 +15,16 @@ I am a M.Sc Engineering Physics student specializing in **Simulation, Instrument
 
 ### 1. [Python](./Python)
 *Click the link above to view code.*
-A collection of **14 computational notebooks** covering computational quantum physics and numerical analysis.
-* **Key Highlights:** 
-* **Stack:** NumPy, SciPy, Qiskit.
+A collection of **14 computational notebooks** covering computational quantum physics, custom quantum circuit, machine learning and numerical analysis.
+* **Stack:** NumPy, SciPy, Qiskit, Matplotlib, Pandas, GDSPy, Seaborn, sklearn, qcodes, EDTPy, pyqula
 
 ### 2. [COMSOL Multiphysics](./COMSOL)
 *Click the link above to view model.*
 Finite Element Analysis (FEA) of electromagnetic and thermal systems.
-* **Key Models:** 
+* **Key Models:** CPW Cross Capacitance Transmon Island, Test Masses of LISA Pathfinder, Quantum Circuit - Filter, Resonators & Graphene (studying Kinetic Inductance & Superconductivity), Structural and Thermal Analysis of microcantilever and picket used in MEMS 
 
 ### 3. [MATLAB & Simulink](./MATLAB-Simulink)
-*Click the link above to view system models.*
+*Click the link above to view scripts.*
 * **Key Projects:** Bunch of MATLAB scripts for numerical analysis
 
 ---
